@@ -1,0 +1,14 @@
+{
+  "name": "inec-press-scrape",
+  "version": "1.0.0",
+  "description": "Puppeteer script to scrape INEC PRES data ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thompson Edolo",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "10.2.0"
+  }
+}
